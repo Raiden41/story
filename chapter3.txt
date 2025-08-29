@@ -1,0 +1,2 @@
+Euology : 
+Gravatar is used to add images to the the user email ids.
